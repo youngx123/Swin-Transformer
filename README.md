@@ -1,6 +1,8 @@
 
 __torch.roll导出onnx报错及解决__
+
 pytorch version : 1.7
+
 >https://github.com/pytorch/pytorch/issues/56355
 ![](https://github.com/youngx123/pic/blob/main/torch.roll.png?raw=true)
 
